@@ -1,4 +1,4 @@
-const allUniqueChars = require("./problem_1-1");
+const allUniqueChars = require("./problem.1.1");
 
 test("abc is unique", () => {
   expect(allUniqueChars("abc")).toBe(true);
